@@ -13,7 +13,7 @@
 We are a small team of Star Wars: Empire At War modders. The team consists of:
 * [Spit](https://github.com/OgSpit) - project leader; specializes in the balancing of units.
 * [Midly](https://github.com/midly202) - lead developer; specializes in memory editing.
-* [Puppet](https://github.com/McValoPuppet) - developer for The Sci-Fi Paradox' website.
+* [Puppet](https://github.com/McValoPuppet) - developer; specializes in web development for The Sci-Fi Paradox' website.
 
 
 ## What do we do?
